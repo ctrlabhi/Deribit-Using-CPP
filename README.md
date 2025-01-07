@@ -2,14 +2,6 @@
 
 DeriBot is a powerful yet simple command-line application for order management, leveraging a websocket client to connect to the [Deribit TESTNET](https://test.deribit.com). It enables efficient portfolio management and trade execution with ease.
 
-<p align="center">
-  <img src="https://i.imgur.com/CgVxwNf.png" alt="DeriBot CLI" width="500px">
-</p>
-
----
-
-## **Developed by [Abhishek Kumar](https://www.linkedin.com/in/ctrlabhi/)**
-
 ---
 
 ## **Table of Contents**
